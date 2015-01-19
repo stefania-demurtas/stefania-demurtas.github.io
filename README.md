@@ -1,0 +1,3 @@
+## Installation
+
+    soure main.sh
